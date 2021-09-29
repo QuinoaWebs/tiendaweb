@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Aceites &#8211; SuperMarket Buena Vida</title>
+	<atom:link href="http://localhost/ActividadesProgramacion/tienda/categoria-producto/aceites/feed/" rel="self" type="application/rss+xml" />
+	<link>http://localhost/ActividadesProgramacion/tienda</link>
+	<description>Otro sitio realizado con WordPress</description>
+	<lastBuildDate>Fri, 18 Jun 2021 08:44:46 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>http://localhost/ActividadesProgramacion/tienda/wp-content/uploads/2021/06/cropped-logo2-1.png</url>
+	<title>Aceites &#8211; SuperMarket Buena Vida</title>
+	<link>http://localhost/ActividadesProgramacion/tienda</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Fortune</title>
+		<link>http://localhost/ActividadesProgramacion/tienda/producto/aceite-fortune/</link>
+					<comments>http://localhost/ActividadesProgramacion/tienda/producto/aceite-fortune/#respond</comments>
+		
+		<dc:creator><![CDATA[tienda]]></dc:creator>
+		<pubDate>Tue, 15 Jun 2021 14:43:45 +0000</pubDate>
+				<guid isPermaLink="false">http://localhost/ActividadesProgramacion/tienda/?post_type=product&#038;p=1535</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. .]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://localhost/ActividadesProgramacion/tienda/producto/aceite-fortune/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Gold</title>
+		<link>http://localhost/ActividadesProgramacion/tienda/producto/aceite-gold/</link>
+					<comments>http://localhost/ActividadesProgramacion/tienda/producto/aceite-gold/#respond</comments>
+		
+		<dc:creator><![CDATA[tienda]]></dc:creator>
+		<pubDate>Tue, 15 Jun 2021 14:42:16 +0000</pubDate>
+				<guid isPermaLink="false">http://localhost/ActividadesProgramacion/tienda/?post_type=product&#038;p=1534</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis,]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://localhost/ActividadesProgramacion/tienda/producto/aceite-gold/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Freedom</title>
+		<link>http://localhost/ActividadesProgramacion/tienda/producto/aceite-freedom/</link>
+					<comments>http://localhost/ActividadesProgramacion/tienda/producto/aceite-freedom/#respond</comments>
+		
+		<dc:creator><![CDATA[tienda]]></dc:creator>
+		<pubDate>Tue, 15 Jun 2021 14:40:39 +0000</pubDate>
+				<guid isPermaLink="false">http://localhost/ActividadesProgramacion/tienda/?post_type=product&#038;p=1533</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://localhost/ActividadesProgramacion/tienda/producto/aceite-freedom/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
